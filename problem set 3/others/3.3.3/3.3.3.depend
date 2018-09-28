@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407127876 source:d:\program\problem set 3\3.3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
